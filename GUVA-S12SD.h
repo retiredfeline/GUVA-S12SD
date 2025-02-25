@@ -15,7 +15,7 @@
  */
 #ifndef _GUVA_S12SD_h
 #define _GUVA_S12SD_h
-#include "arduino.h"
+#include "Arduino.h"
 
 class GUVAS12SD
 {

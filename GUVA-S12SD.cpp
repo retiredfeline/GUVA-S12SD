@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-#include "arduino.h"
+#include "Arduino.h"
 #include "GUVA-S12SD.h"
 
 /* https://github.com/Marzogh/Tricorder/blob/master/Tricorder/GUVAS12SD.ino */
